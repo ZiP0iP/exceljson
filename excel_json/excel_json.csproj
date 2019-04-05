@@ -59,9 +59,9 @@
   <ItemGroup>
     <Compile Include="DBSQLServerUtils.cs" />
     <Compile Include="DBUtils.cs" />
+    <Compile Include="jsonSMPO.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SMPO.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
